@@ -36,13 +36,20 @@ Another way is to open is through START icon of MATLAB Start ⇒ Simulink ⇒ Li
 13.	Analyze and record your inference.
     
 ## Observation Table
-<img width="636" height="295" alt="image" src="https://github.com/user-attachments/assets/d16394c9-1df2-4ad8-b85c-92dfaa51aeee" />
+<img width="416" height="152" alt="image" src="https://github.com/user-attachments/assets/35155a97-8089-4109-8323-2fcc234636e1" />
 
 ## Output graph
+<img width="756" height="445" alt="image" src="https://github.com/user-attachments/assets/222cbae2-50e7-4b17-b117-f0a6bfb6f25b" />
 
 
 ## Simulated Output waveform
 
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/55cdc36e-4189-48c2-9fec-132ae72e685c" />
+<img width="702" height="628" alt="image" src="https://github.com/user-attachments/assets/9f9c4d17-74dc-4a6e-b94d-128e50606056" />
+
 
 
 ## RESULT.
+Torque speed characteristics of DC Shunt motor is simulated and analysed
+
+
